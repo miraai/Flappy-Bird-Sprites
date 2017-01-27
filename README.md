@@ -1,2 +1,2 @@
 # Flappy-Bird-Sprites
-Sprites for Flappy Bird game in GodotGameEngine
+Sprites for Flappy Bird game in Godot GameEngine
